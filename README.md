@@ -21,4 +21,4 @@ The device generates a high-voltage electrical arc. The bright flash and loud sp
 
 <img width="400" alt="Shock_Device_06_Rear_View" src="https://github.com/user-attachments/assets/b1bb691c-d8db-4a76-99b1-47a2522cc150" />
 
-https://youtu.be/joLSPD0L49M
+[![Women Safety Shock Device Demonstration](https://img.youtube.com/vi/joLSPD0L49M/0.jpg)](https://youtu.be/joLSPD0L49M)
